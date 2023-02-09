@@ -189,7 +189,7 @@ label {
   #menuCheckbox:checked ~ label #close {
     display: inline-block;
   }
-  #menuCheckbox:checked ~ .label #menu {
+  #menuCheckbox:checked ~ label #menu {
     display: none;
   }
 }
